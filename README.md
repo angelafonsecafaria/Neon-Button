@@ -1,3 +1,3 @@
-# Neon light button
+# Neon-light-button
 
 ![Button](img/button.gif)
